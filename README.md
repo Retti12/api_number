@@ -17,7 +17,7 @@ php demo.php
 ```
 
 ## ⚠️ Важно
-Не загружайте реальные токены в публичный репозиторий!
+**Не загружайте реальные токены в публичный репозиторий!**
 
 
 **facts_about_the_number**	Basic facts about the number (e.g., its unique properties or historical usage).
